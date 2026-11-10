@@ -1,0 +1,14 @@
+langchain
+langchain-classic
+langchain-openai
+langchain-chroma
+unstructured[all-docs]
+unstructured-inference
+pillow
+pydantic
+lxml
+chromadb
+tiktoken
+python-dotenv
+ipykernel
+nbconvert
